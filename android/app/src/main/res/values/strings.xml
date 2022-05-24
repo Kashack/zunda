@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"zunda"</string>
+    <string name="facebook_app_id">725951538838897</string>
+    <string name="fb_login_protocol_scheme">fb725951538838897</string>
+    <string name="facebook_client_token">6bc5f419c1bd49308cdf5e75f86af41b</string>
+</resources>

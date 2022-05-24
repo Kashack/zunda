@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495566010793",
+    "project_id": "zunda-a0d09",
+    "storage_bucket": "zunda-a0d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495566010793:android:09b4dc7c75d2ed42f5acb8",
+        "android_client_info": {
+          "package_name": "com.zunada.zunada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495566010793-of2obvgl7tohiqn2uff85jg1mimgk94b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIb3Cy4MuzQuSp6sPdNSaW1hi-fIlp54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495566010793-of2obvgl7tohiqn2uff85jg1mimgk94b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
